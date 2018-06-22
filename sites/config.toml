@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+
+[params]
+  form_title1 = "预约演示"
+  form_title2 = "免费试用"
+  
